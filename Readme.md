@@ -1,5 +1,9 @@
 <h1>Desafio 1 - Curso Full Cycle - Docker</h1>
 
+<hr>
+
+<h2>docker run hamiltondias/fullcycle</h2>
+
 <p>
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:<br><br>
